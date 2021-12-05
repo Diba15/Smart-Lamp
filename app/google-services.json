@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117423881066",
+    "project_id": "smart-lamp-e3d7f",
+    "storage_bucket": "smart-lamp-e3d7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117423881066:android:c24964851dd06f51b9c313",
+        "android_client_info": {
+          "package_name": "org.d3ifcool.smartlamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117423881066-577acfakih2ejt1uun3de8uunrnc4f3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFk_g9vkdfyucFng-MsxfzpL9VaakXT2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117423881066-577acfakih2ejt1uun3de8uunrnc4f3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Smart Lamp</string>
+    <string name="lamp_on">Nyalakan Lampu</string>
+    <string name="lamp_off">Matikan Lampu</string>
+    <string name="auto_on">Hidupkan Otomatis</string>
+    <string name="auto_off">Matikan Otomatis</string>
+</resources>
